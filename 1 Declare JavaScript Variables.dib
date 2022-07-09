@@ -1,0 +1,7 @@
+#!javascript
+
+var myName;
+myName = 'lelouch'
+console.log(myName)
+
+console.log("hello")
